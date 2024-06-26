@@ -1,0 +1,10 @@
+Package: com.lancerplays.bgmi
+Name: lancerplays BGMI Hack
+Depends: mobilesubstrate
+Version: 3.1
+Architecture: iphoneos-arm
+Description: Powerfull hack for Pubg made by @LancerPlays
+Maintainer: LancerPlays
+Author: @Sandipan1508
+Section: Tweaks
+Homepage: x.com/LancerPlays
